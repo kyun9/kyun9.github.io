@@ -295,7 +295,13 @@ p {
 .tm-link {
   color: #676767;
 }
-
+hr {
+  height: 2px;
+  background-color:#555;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
 @media (max-width: 1054px) {
   .tm-contact-item-icon {
     margin-bottom: 15px;
